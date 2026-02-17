@@ -1,0 +1,10 @@
+{
+  "websocket_url": "ws://localhost:8085",
+  "client_id": "tanu-1",
+  "weights_source": "default",
+  "focal_length": 18,
+  "height": 100,
+  "arduino_port": "COM3",
+  "max_turns": 2,
+  "max_v_turns": 1
+}
