@@ -110,5 +110,5 @@ python video_send.py
 
 ## 👨‍💻 Autor
 
-Moises Llancapani Stormensan
+Moises Llancapani Stormensan 
 Ingeniería TI & Desarrollo de Sistemas de Visión Artificial
