@@ -23,6 +23,7 @@ El nodo es ligero y delega el procesamiento pesado al backend, permitiendo escal
 
 ## 🏗️ Arquitectura del Sistema
 
+```text
 [Cámara Nodo]
       ↓
    OpenCV
@@ -34,7 +35,7 @@ WebSocket Client  →  Servidor Central
                  Modelo de Detección
                          ↓
                  Resultados / Acciones
-
+```
 ---
 
 ## ⚙️ Configuración
@@ -73,7 +74,7 @@ Reemplaza `192.168.1.88` por la IP del servidor donde se ejecuta el backend de d
 ## 🖥️ Requisitos
 
 - Python 3.9+
-- Cámara compatible con OpenCV
+- Cámara
 - Conectividad de red estable
 - Arduino (opcional)
 
@@ -109,5 +110,5 @@ python video_send.py
 
 ## 👨‍💻 Autor
 
-Moises Llancapani  
-Ingeniería TI & Desarrollo de Sistemas de Visión
+Moises Llancapani Stormensan
+Ingeniería TI & Desarrollo de Sistemas de Visión Artificial
