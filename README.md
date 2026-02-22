@@ -113,4 +113,5 @@ python video_send.py
 Moises Iván Llancapani Stormensan 
 
 Proyecto TANU – Monitoreo Ambiental Inteligente
+
 Generado el 2026-01-17
