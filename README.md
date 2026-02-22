@@ -110,6 +110,7 @@ python video_send.py
 
 ## 👨‍💻 Autor
 
-Moises Llancapani Stormensan 
+Moises Iván Llancapani Stormensan 
 
-Ingeniería TI & Desarrollo de Sistemas de Visión Artificial
+Proyecto TANU – Monitoreo Ambiental Inteligente
+Generado el 2026-01-17
